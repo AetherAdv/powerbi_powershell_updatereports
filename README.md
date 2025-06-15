@@ -1,4 +1,3 @@
-# Aether Repo Template
+This script has now been updated to version2
 
-
-Thankyou for visiting the Aether repo! Any questions then I would be happy to support!
+Better error handling & parameter handling
